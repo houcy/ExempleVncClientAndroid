@@ -1,0 +1,56 @@
+minilzo.lo: ../common/minilzo.c \
+ /home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include-fixed/limits.h \
+ /home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include-fixed/syslimits.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/limits.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/cdefs.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/cdefs_elf.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/android/api-level.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/limits.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/limits.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/machine/internal_types.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/machine/limits.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/syslimits.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/page.h \
+ /home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include/stddef.h \
+ ../common/minilzo.h ../common/lzoconf.h ../common/lzodefs.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/string.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/malloc.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/assert.h
+
+/home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include-fixed/limits.h:
+
+/home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include-fixed/syslimits.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/limits.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/cdefs.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/cdefs_elf.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/android/api-level.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/limits.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/limits.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/machine/internal_types.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/machine/limits.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/syslimits.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/page.h:
+
+/home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include/stddef.h:
+
+../common/minilzo.h:
+
+../common/lzoconf.h:
+
+../common/lzodefs.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/string.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/malloc.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/assert.h:

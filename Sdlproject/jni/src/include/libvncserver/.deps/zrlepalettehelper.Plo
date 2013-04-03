@@ -1,0 +1,26 @@
+zrlepalettehelper.lo: zrlepalettehelper.c zrlepalettehelper.h zrletypes.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/assert.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/cdefs.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/cdefs_elf.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/android/api-level.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/string.h \
+ /home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include/stddef.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/malloc.h
+
+zrlepalettehelper.h:
+
+zrletypes.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/assert.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/cdefs.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/cdefs_elf.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/android/api-level.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/string.h:
+
+/home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include/stddef.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/malloc.h:

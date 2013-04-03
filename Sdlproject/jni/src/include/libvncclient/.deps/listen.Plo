@@ -1,0 +1,230 @@
+listen.lo: listen.c \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/unistd.h \
+ /home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include/stddef.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/cdefs.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/cdefs_elf.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/android/api-level.h \
+ /home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include-fixed/sys/types.h \
+ /home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include/stdint.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/stdint.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/_types.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/machine/_types.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/posix_types.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/stddef.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/compiler.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/posix_types.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/types.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/types.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/machine/kernel.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/sysmacros.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/select.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/time.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/time.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/signal.h \
+ /home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include-fixed/limits.h \
+ /home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include-fixed/syslimits.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/limits.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/limits.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/limits.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/machine/internal_types.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/machine/limits.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/syslimits.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/page.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/string.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/malloc.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/signal.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm-generic/signal.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/sigcontext.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/siginfo.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm-generic/siginfo.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/sysconf.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/capability.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/pathconf.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/wait.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/resource.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/resource.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/resource.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm-generic/resource.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/wait.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/utsname.h \
+ ../rfb/rfbclient.h \
+ /home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include-fixed/stdio.h \
+ /home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include/stdarg.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/stdlib.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/alloca.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/strings.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/memory.h \
+ ../rfb/rfbproto.h ../rfb/rfbconfig.h ../rfb/rfbint.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/zlib.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/zconf.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/netinet/in.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/endian.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/endian.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/socket.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/socket.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/sockios.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/sockios.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/uio.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/in.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/byteorder.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/byteorder/little_endian.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/byteorder/swab.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/byteorder/generic.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/in6.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/ipv6.h \
+ /home/roni/my-android-toolchain/bin/../sysroot/usr/include/netinet/in6.h \
+ ../rfb/keysym.h
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/unistd.h:
+
+/home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include/stddef.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/cdefs.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/cdefs_elf.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/android/api-level.h:
+
+/home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include-fixed/sys/types.h:
+
+/home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include/stdint.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/stdint.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/_types.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/machine/_types.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/posix_types.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/stddef.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/compiler.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/posix_types.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/types.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/types.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/machine/kernel.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/sysmacros.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/select.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/time.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/time.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/signal.h:
+
+/home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include-fixed/limits.h:
+
+/home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include-fixed/syslimits.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/limits.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/limits.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/limits.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/machine/internal_types.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/machine/limits.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/syslimits.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/page.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/string.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/malloc.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/signal.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm-generic/signal.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/sigcontext.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/siginfo.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm-generic/siginfo.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/sysconf.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/capability.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/pathconf.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/wait.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/resource.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/resource.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/resource.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm-generic/resource.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/wait.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/utsname.h:
+
+../rfb/rfbclient.h:
+
+/home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include-fixed/stdio.h:
+
+/home/roni/my-android-toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include/stdarg.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/stdlib.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/alloca.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/strings.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/memory.h:
+
+../rfb/rfbproto.h:
+
+../rfb/rfbconfig.h:
+
+../rfb/rfbint.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/zlib.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/zconf.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/netinet/in.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/endian.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/sys/endian.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/socket.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/socket.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/sockios.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/sockios.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/uio.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/in.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/asm/byteorder.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/byteorder/little_endian.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/byteorder/swab.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/byteorder/generic.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/in6.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/linux/ipv6.h:
+
+/home/roni/my-android-toolchain/bin/../sysroot/usr/include/netinet/in6.h:
+
+../rfb/keysym.h:

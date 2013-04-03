@@ -1,0 +1,2 @@
+set solib-search-path ./obj/local/armeabi
+directory /home/roni/Android/android-ndk-r8d/platforms/android-9/arch-arm/usr/include jni/SDL/include /home/roni/Android/android-ndk-r8d/sources/cxx-stl/stlport/stlport /home/roni/Android/android-ndk-r8d/sources/cxx-stl//gabi++/include jni/src jni/src/include jni/src/../SDL/include include/SDL include/libvncclient include/libvncserver include/common
